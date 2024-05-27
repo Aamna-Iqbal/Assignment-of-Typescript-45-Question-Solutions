@@ -1,5 +1,5 @@
 let userNames=["Ayesha", "Fatima", "Admin", "Maham", "Tooba"];
-userNames = []
+userNames = [];
 if (userNames.length===0){
 console.log("Your list is empty, We need to find some users!")
 }else{
